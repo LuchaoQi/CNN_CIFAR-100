@@ -8,12 +8,12 @@ https://towardsdatascience.com/heres-how-you-can-get-a-2-6x-speed-up-on-your-dat
 
 ### CNN_CIFAR-100
 
-Code has been updates to google colab
+Code has been updated to google colab:
 
 https://colab.research.google.com/drive/1xLKq2DW8EF6pMZFtNCE09lKiuatYKIq9
 
 
-google drive
+Data for training:
 
 https://drive.google.com/drive/folders/1ZsqyPbnFURskLgf0ZwOVKaKDrFP6BjnO?usp=sharing
 
